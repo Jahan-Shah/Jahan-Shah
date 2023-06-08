@@ -1,7 +1,7 @@
 <div>
   
 # 💫 About Me:
-< sj/ > Mysterious developer and designer based in Pakistan, Studying Artificial Intelligence.
+< sj/ > Mysterious front-end developer and designer based in Pakistan, Studying Artificial Intelligence.
 
 
 ## 🌐 Connect with me:
