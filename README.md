@@ -12,8 +12,8 @@
 </div>
 <div align="center">
 
-# 📌 Holo Pins
-[![An image of @jahanshah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jahanshah)](https://holopin.io/@jahanshah)
+<!-- # 📌 Holo Pins
+[![An image of @jahanshah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jahanshah)](https://holopin.io/@jahanshah) -->
 
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jahan-Shah&theme=midnight-purple&hide_border=false)<br/>
