@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mysterious front-end developer and designer based in Pakistan, Studying Artificial Intelligence.
+I make divs move...
 
 ## 🌐 Connect with me:
 
