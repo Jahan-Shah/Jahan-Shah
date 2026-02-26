@@ -8,7 +8,6 @@ I’m passionate about building **beautiful, responsive, and accessible web appl
 ## 🧠 About Me
 - 🎓 **Ex–Microsoft Student Ambassador** & **xSDE Intern** — strong foundation in web development and developer advocacy.  
 - 🪄 I love **motion design** and crafting micro-interactions that make interfaces come alive.  
-- 🚀 Currently diving deep into **React Server Components**, **Edge Functions**.  
 - 💬 Always excited to collaborate on open-source, UI/UX projects, and modern front-end tooling.  
 - 🌍 Based in Faisalabad, Pakistan | Open to remote work and freelance collaborations.
 
@@ -34,24 +33,10 @@ Cloudflare Workers • GitHub Actions • Docker • VPS • Figma
 
 | Project | Description | Stack | Demo |
 |----------|--------------|-------|------|
-| 👑 **The Royal Gateway – Commission Platform** | A multi-tenet production-grade web app for managing commission for employees. Built with performance, scalability, and modern UX at its core. | React.js, TypeScript, Tailwind, Hono.js | [Live Site](https://commission.theroyalgateway.com/) |  
+| 👑 **The Royal Gateway – Commission Platform** | A multi-tenet production-grade web app for managing commission for employees. Built with performance, scalability, and modern UX at its core. | React.js, TypeScript, Tailwind, Hono.js, Docker, CI/CD, Digital Ocean | [Live Site](https://commission.theroyalgateway.com/) |  
 | ✏️ **Draw Doodle AI** | Real-time sketch classifier using a CNN trained on Google QuickDraw dataset. | Python, TensorFlow, Flask, JS | [Live Demo](https://draw-doodle.netlify.app/) / [Repo](https://github.com/Jahan-Shah/draw-doodle)  
 
 > ✨ Each project includes code, demo, and case-study write-up on my portfolio: [jahanshah.dev](https://jahanshah.dev)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jahan-Shah&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahan-Shah&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧭 What I'm Exploring Next
-- ⚡ **AI/ML Engineering**
 
 ---
 
